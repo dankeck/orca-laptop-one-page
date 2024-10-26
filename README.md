@@ -8,6 +8,9 @@ This document is not produced by, endorsed by, or in any other way associated wi
 ![Thumbnail image of reference sheet, showing keyboard commands arranged into eight sections in two columns](thumbnail.png)
 
 ## Changelog
+### 2024-10-26 version 1.0.3
+Adjusted spacing.
+
 ### 2024-10-26 version 1.0.2
 Changed font to DejaVu Sans.
 
