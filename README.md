@@ -12,5 +12,8 @@ This document is not produced by, endorsed by, or in any other way associated wi
 - Word processing software that can read ODT files, such as LibreOffice
 
 ## Changelog
+### 2024-10-25 version 1.0.1
+Added command to stop speaking.
+
 ### 2024-10-24 version 1.0.0
 Initial version
